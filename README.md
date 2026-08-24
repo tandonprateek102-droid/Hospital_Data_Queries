@@ -107,9 +107,9 @@ Hospital_Data_Queries/
 
 ├── Hospital_Data.csv
 
-├── Hospital_Data_Queries.sql
-
 └── README.md
+
+├── Hospital_Data_Queries.sql
 
 # 💡 Key Learning Outcomes
 
