@@ -109,6 +109,8 @@ Hospital_Data_Queries/
 
 └── README.md
 
+|__Total Number of Patients.docx
+
 ├── Hospital_Data_Queries.sql
 
 # 💡 Key Learning Outcomes
