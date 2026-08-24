@@ -1,13 +1,13 @@
 # Hospital_Data_Queries
 
 Hospital Data SQL Analysis
-📌 Project Overview
+# 📌 Project Overview
 
 This project contains a collection of SQL queries for analyzing hospital data. The purpose of the project is to practice database querying and extract meaningful insights from hospital records using SQL.
 
 The project covers important SQL concepts such as SELECT, WHERE, GROUP BY, HAVING, ORDER BY, aggregate functions, JOINs, subqueries, and data analysis.
 
-📊 Dataset
+# 📊 Dataset
 
 The project uses a Hospital Data dataset containing hospital-related records.
 
@@ -23,13 +23,13 @@ Typical information may include:
 • Treatment information
 • Billing/payment information
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 • SQL
 • PostgreSQL
 • pgAdmin 4
 • CSV Dataset
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 
 The main objectives are:
 
@@ -43,7 +43,7 @@ The main objectives are:
 8. Perform advanced analysis using SQL queries.
 9. Generate useful insights from hospital data.
 
-🔑 SQL Concepts Covered
+# 🔑 SQL Concepts Covered
 
 # Basic SQL
 
@@ -71,7 +71,7 @@ The main objectives are:
 • JOIN
 • CASE
 
-📂 Project Structure
+# 📂 Project Structure
 
 Hospital_Data_Queries/
 │
@@ -79,7 +79,7 @@ Hospital_Data_Queries/
 ├── Hospital_Data_Queries.sql
 └── README.md
 
-💡 Key Learning Outcomes
+# 💡 Key Learning Outcomes
 
 Through this project, I practiced:
 
